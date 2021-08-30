@@ -1,5 +1,6 @@
 import React from "react"
 import VideoTiles from "./VideoTiles";
+import ScreenShare from "./Screenshare"
 import {
   useHMSStore,
   selectLocalPeer,selectPeers
